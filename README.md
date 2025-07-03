@@ -35,4 +35,4 @@ Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusias
 ![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/repos?time_range=one_year&theme=dark)
 
 # Most Used Languages : 
-![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/langs?time_range=one_year&theme=classic)
+![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/langs?time_range=one_year&theme=dark)
