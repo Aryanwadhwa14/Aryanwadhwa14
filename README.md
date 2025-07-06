@@ -2,8 +2,7 @@
 Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusiast. I build apps that (mostly) work, models that (hopefully) learn, and solutions that (ideally) scale. Always shipping something new, breaking stuff just to fix it better, and staying curious about what wild thing tech throws at me next.
 
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aryan_wadhwa_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan17198) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](aryanwadhwa911@gmail.com) 
+# 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan17198) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](aryanwadhwa911@gmail.com) 
 
 # 💻 Tech Stack:
 ## - Programming languages : 
