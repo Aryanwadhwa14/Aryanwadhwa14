@@ -1,10 +1,13 @@
 # 💫 About Me:
 Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusiast. I build apps that (mostly) work, models that (hopefully) learn, and solutions that (ideally) scale. Always shipping something new, breaking stuff just to fix it better, and staying curious about what wild thing tech throws at me next.
 
+---
 
 # 🌐 Socials: 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan17198) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](aryanwadhwa911@gmail.com) 
+
+ ---
 
 # 💻 Tech Stack:
 ## - Programming languages : 
@@ -27,13 +30,19 @@ Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusias
 
 ### - Other Frameworks : 
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
- 
+
+---
+
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwadhwa14&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+--- 
+
 # Github Trends : 
 ![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/repos?time_range=one_year&theme=dark)
 
-# Most Used Languages : 
-![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/langs?time_range=one_year&theme=dark)
+
