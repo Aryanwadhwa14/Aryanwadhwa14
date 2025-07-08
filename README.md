@@ -33,10 +33,6 @@ Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusias
 
 ---
 
-![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwadhwa14&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -44,5 +40,10 @@ Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusias
 
 # Github Trends : 
 ![](https://api.githubtrends.io/user/svg/Aryanwadhwa14/repos?time_range=one_year&theme=dark)
+
+---
+
+![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 
