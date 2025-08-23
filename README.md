@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey! I’m Aryan Wadhwa, a full stack developer, ML explorer, and data enthusiast. I build apps that (mostly) work, models that (hopefully) learn, and solutions that (ideally) scale. Always shipping something new, breaking stuff just to fix it better, and staying curious about what wild thing tech throws at me next.
-
+Hey! I'm a Full-stack developer | ML & Data Enthusiast | Building scalable apps, training models that learn, and crafting solutions that evolve. Always exploring, innovating, and ready for whatever tech brings next.
 ---
 
 # Connect with me 🤝 
