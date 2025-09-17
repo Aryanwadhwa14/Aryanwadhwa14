@@ -33,9 +33,6 @@ Hey! I'm a Full-stack developer | ML & Data Enthusiast | Building scalable apps,
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwadhwa14&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 
 
