@@ -1,7 +1,11 @@
-# 👋 Hey, I’m Aryan Wadhwa  
+# <h1 align="center">👋 Hey, I’m Aryan Wadhwa</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor)](https://git.io/typing-svg)  
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 
 🚀 **Full Stack Developer | AI/ML Enthusiast | Hackathon Mentor**  
@@ -38,6 +42,25 @@
  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 
 ---
+
+## 🚀 Featured Projects  
+
+🔹 [**Bolt2.0**](https://github.com/Aryanwadhwa14/Bolt2.0) – *AI Website Maker* → Generate full-stack Next.js apps from prompts, instantly production-ready.  
+
+🔹 [**StockAI**](https://github.com/Aryanwadhwa14/Stocks-prediction-analysis) – Real-time stock prediction & analysis with LSTM + AI chatbot.  
+
+🔹 [**Heart-Disease-Prediction**](https://github.com/Aryanwadhwa14/HEART-DISEASE) – ML-based heart disease prediction model with patient risk profiling.  
+
+---
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanwadhwa14&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanwadhwa14&theme=radical" alt="Streak Stats" height="170"/>
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwadhwa14&layout=compact&theme=radical" alt="Top Langs" height="170"/>
+</p>  
 
 
 
