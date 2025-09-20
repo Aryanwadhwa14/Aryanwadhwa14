@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hey, I’m Aryan Wadhwa</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</p>
+<h1>👋 Hey, I’m Aryan Wadhwa</h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor" alt="Typing SVG" />
+
+</div>
 
 # 💫 About Me:
 
@@ -53,17 +52,3 @@
 🔹 [**Heart-Disease-Prediction**](https://github.com/Aryanwadhwa14/HEART-DISEASE) – ML-based heart disease prediction model with patient risk profiling.  
 
 ---
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanwadhwa14&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanwadhwa14&theme=radical" alt="Streak Stats" height="170"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwadhwa14&layout=compact&theme=radical" alt="Top Langs" height="170"/>
-</p>  
-
-
-
-
-
