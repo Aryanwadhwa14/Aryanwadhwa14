@@ -1,13 +1,11 @@
 # 👋 Hey, I’m Aryan Wadhwa  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor)](https://git.io/typing-svg)  
+---
+# 💫 About Me:
 
 🚀 **Full Stack Developer | AI/ML Enthusiast | Hackathon Mentor**  
 💡 Passionate about building **scalable apps**, solving real-world problems with **AI**, and contributing to **open-source & hackathons**.  
-
----
-# 💫 About Me:
-Hey! I'm a Full-stack developer | ML & Data Enthusiast | Building scalable apps, training models that learn, and crafting solutions that evolve. Always exploring, innovating, and ready for whatever tech brings next.
 
 ---
          
