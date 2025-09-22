@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 🔹 [**Bolt2.0**](https://github.com/Aryanwadhwa14/Bolt2.0) – *AI Website Maker* → Generate full-stack Next.js apps from prompts, instantly production-ready.  
 
