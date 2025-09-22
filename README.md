@@ -1,7 +1,7 @@
 <h1>👋 Hey, I’m Aryan Wadhwa </h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor" alt="Typing SVG" />
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 
 # 💫 About Me:
 
