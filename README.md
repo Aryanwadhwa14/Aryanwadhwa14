@@ -48,4 +48,5 @@
 
 🔹 [**Heart-Disease-Prediction**](https://github.com/Aryanwadhwa14/HEART-DISEASE) – ML-based heart disease prediction model with patient risk profiling.  
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aryanwadhwa14)
 ---
