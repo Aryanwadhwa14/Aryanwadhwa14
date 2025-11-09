@@ -4,7 +4,7 @@
 # 💫 About Me:
  
  **Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**  
-Passionate about building **scalable apps**, solving real-world problems with **AI**, and contributing to **open-source & hackathons**.  
+Passionate about building **scalable apps**, solving real-world problems, and contributing to **open-source & hackathons**.  
 
 ---
          
