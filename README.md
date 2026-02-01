@@ -1,16 +1,16 @@
 <h1>👋 Hey, I’m Aryan Wadhwa </h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;AI%2FML+Specialist;Hackathon+Mentor;Open+Source+Contributor" alt="Typing SVG" />
 
-# 💫 About Me:
+# About Me:
  
  **Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**  
 Passionate about building **scalable apps**, solving real-world problems, and contributing to **open-source & hackathons**.  
 
 ---
          
-# Connect with me 🤝                     
+# Connect with me                   
      
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan70283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanwadhwa911@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan70283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanwadhwa911@gmail.com) [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@aryanwadhwa2005)
 
  ---
 
