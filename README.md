@@ -4,7 +4,7 @@
 # About Me:
  
  **Software Developer | AI/ML & Quant Researcher | Open Source Contributor**  
-I'm a 3rd year CS undergrad who's passionate about building **scalable apps**, Research and Development in **ML and Quant**, and contributing to **open-source & hackathons**.  
+I'm a **3rd year CS undergrad** who's passionate about building **scalable apps**, Research and Development in **ML and Quant**, and contributing to **open-source & hackathons**.  
 
 ---
          
