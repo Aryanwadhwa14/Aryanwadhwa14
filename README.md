@@ -4,7 +4,7 @@
 # About Me:
  
  **Full Stack Developer | AI/ML Researcher | Open Source Contributor**  
-Passionate about building **scalable apps**, solving real-world problems, and contributing to **open-source & hackathons**.  
+I'm a 3rd year CS undergrad who's passionate about building **scalable apps**, solving real-world problems, and contributing to **open-source & hackathons**.  
 
 ---
          
@@ -39,6 +39,8 @@ Passionate about building **scalable apps**, solving real-world problems, and co
 ---
 
 ## Featured Projects  
+
+🔹 [**Deep Packet Inspection**](https://github.com/Aryanwadhwa14/Deep-Packet-Analyzer) – C++ deep packet inspection engine with TLS/SNI parsing, flow tracking, rule-based filtering, and scalable multi-threaded architecture.
 
 🔹 [**Bolt2.0**](https://github.com/Aryanwadhwa14/Bolt2.0) – *AI Website Maker* → Generate full-stack Next.js apps from prompts, instantly production-ready.  
 
