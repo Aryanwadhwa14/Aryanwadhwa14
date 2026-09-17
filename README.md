@@ -41,7 +41,7 @@ I'm a **final year CS undergrad** who's passionate about building **scalable app
 
 ---
 
-## Featured Projects  
+## Projects  
 
 🔹 [**Deep Packet Inspection**](https://github.com/Aryanwadhwa14/Deep-Packet-Analyzer) – C++ deep packet inspection engine with TLS/SNI parsing, flow tracking, rule-based filtering, and scalable multi-threaded architecture.
 
