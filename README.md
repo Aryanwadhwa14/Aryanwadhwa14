@@ -48,7 +48,6 @@ I'm a **final year CS grad** who's passionate about building, R&D in **ML and Qu
 
 🔹 [**StockAI**](https://github.com/Aryanwadhwa14/Stocks-prediction-analysis) – Real-time stock prediction & analysis with LSTM + AI chatbot.  
 
-🔹 [**Heart-Disease-Prediction**](https://github.com/Aryanwadhwa14/HEART-DISEASE) – ML-based heart disease prediction model with patient risk profiling.  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aryanwadhwa14)
 ---
