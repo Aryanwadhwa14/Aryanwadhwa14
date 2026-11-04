@@ -7,7 +7,7 @@ I'm a **final year CS grad** who's passionate about building, R&D in **ML and Qu
 
 ---
          
-# Connect with me                   
+# Connect with me :               
      
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-wadhwa-073727252/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryan70283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanwadhwa911@gmail.com) [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@aryanwadhwa2005)
 
