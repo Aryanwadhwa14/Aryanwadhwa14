@@ -1,9 +1,8 @@
 <h1> Hey, I’m Aryan Wadhwa </h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&width=435&lines=Software+Developer;Researcher;Open+Source+Contributor" alt="Typing SVG" />
 
 # About Me:
  
- **Software Developer | ML Researcher | Open Source Contributor**  
+ **Software Developer | Researcher | Open Source Contributor**  
 I'm a **final year CS grad** who's passionate about building, R&D in **ML and Quant**, and contributing to **open-source & hackathons**.  
 
 ---
