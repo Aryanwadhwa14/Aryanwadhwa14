@@ -3,7 +3,9 @@
 # About Me:
  
  **Software Developer | Researcher | Open Source Contributor**  
-I'm a **final year CS grad** who's passionate about building, R&D in **ML and Quant**, and contributing to **open-source & hackathons**.  
+I'm a **final year CS grad** who's passionate about building 
+- Yes I am into research papers that blow my cognitive ability to think even louder 
+- currently also looking for open roles in Full stack, ML and in any founding or building roles, so if you are a founder or hiring manager who's looking for a not a dev but an actual builder - hit me up!
 
 ---
          
