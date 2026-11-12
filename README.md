@@ -3,7 +3,7 @@
 # About Me:
 - I'm a **final year CS grad** who's passionate about building.
 - Yes I am into research papers that blow my cognitive ability to think even louder.
-- Currently also looking for open roles in Full stack, ML and or in any domain (Yes, I DON'T LIMIT MYSELF with a role), so if you are a founder or hiring manager who's reading my README.md and also not just looking for a dev which can simply do the given tasks lined up but can actually think, reciprocate with more energy and build smarter (**without actually wasting your claude tokens xd**) - hit me up!
+- Currently also looking for open roles in Full stack, ML and or in any domain (Yes, **I DON'T LIMIT MYSELF** with a role), so if you are a founder or a hiring manager who's reading my git profile and also not just looking for a dev which can simply do the given tasks lined up but can actually think, reciprocate with more energy and build smarter (**without actually wasting your claude tokens xd**) - hit me up!
 
 ---
          
