@@ -5,7 +5,7 @@
  **Software Developer | Researcher | Open Source Contributor**  
 I'm a **final year CS grad** who's passionate about building 
 - Yes I am into research papers that blow my cognitive ability to think even louder 
-- currently also looking for open roles in Full stack, ML and in any founding or building roles, so if you are a founder or hiring manager who's looking for a not a dev but an actual builder - hit me up!
+- currently also looking for open roles in Full stack, ML and in any founding or building roles, so if you are a founder or hiring manager who's looking not just a dev which can simple do the given tasks lined up but can actual think, reciprocate with more energy and build smarter - hit me up!
 
 ---
          
