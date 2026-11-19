@@ -40,13 +40,13 @@
 ---
 
 ## Projects  
+🔹 [**Quant System**](https://github.com/Aryanwadhwa14/Trading_Engine) – Currently working on this - algo based quant trading engine which would take trades on any market - figuring out the Risk management and Markov chains prediction. 
+
+🔹 [**StockAI**](https://github.com/Aryanwadhwa14/Stocks-prediction-analysis) – Real-time stock prediction & analysis with LSTM + AI chatbot.  
 
 🔹 [**Deep Packet Inspection**](https://github.com/Aryanwadhwa14/Deep-Packet-Analyzer) – C++ deep packet inspection engine with TLS/SNI parsing, flow tracking, rule-based filtering, and scalable multi-threaded architecture.
 
 🔹 [**Bolt2.0**](https://github.com/Aryanwadhwa14/Bolt2.0) – *AI Website Maker* → Generate full-stack Next.js apps from prompts, instantly production-ready.  
-
-🔹 [**StockAI**](https://github.com/Aryanwadhwa14/Stocks-prediction-analysis) – Real-time stock prediction & analysis with LSTM + AI chatbot.  
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aryanwadhwa14)
 ---
