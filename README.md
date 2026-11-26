@@ -40,7 +40,7 @@
 ---
 
 ## Projects  
-🔹 [**Quant System**](https://github.com/Aryanwadhwa14/Trading_Engine) – Currently working on this - algo based quant trading engine which would take trades on any market - figuring out the Risk management and Markov chains prediction (Basically, how it can work on real market and convert those strategies into trades).
+🔹 [**Quant System**](https://github.com/Aryanwadhwa14/Trading_Engine) – Currently working on this - algo based quant trading engine which would take trades on any market - figuring out the Risk management and Markov chains prediction (Basically, how it can work on real market and convert trading strategies into actual trades).
 
 🔹 [**StockAI**](https://github.com/Aryanwadhwa14/Stocks-prediction-analysis) – Real-time stock prediction & analysis with LSTM + AI chatbot.  
 
